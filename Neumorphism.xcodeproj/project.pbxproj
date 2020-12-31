@@ -11,6 +11,7 @@
 		81EC8381259E699100A10F12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EC8380259E699100A10F12 /* ContentView.swift */; };
 		81EC8383259E699200A10F12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81EC8382259E699200A10F12 /* Assets.xcassets */; };
 		81EC8386259E699200A10F12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81EC8385259E699200A10F12 /* Preview Assets.xcassets */; };
+		81EC838F259E69A900A10F12 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EC838E259E69A900A10F12 /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		81EC8382259E699200A10F12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81EC8385259E699200A10F12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		81EC8387259E699200A10F12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81EC838E259E69A900A10F12 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				81EC8382259E699200A10F12 /* Assets.xcassets */,
 				81EC8387259E699200A10F12 /* Info.plist */,
 				81EC8384259E699200A10F12 /* Preview Content */,
+				81EC838E259E69A900A10F12 /* Color.swift */,
 			);
 			path = Neumorphism;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				81EC8381259E699100A10F12 /* ContentView.swift in Sources */,
 				81EC837F259E699100A10F12 /* NeumorphismApp.swift in Sources */,
+				81EC838F259E69A900A10F12 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
